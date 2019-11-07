@@ -22,8 +22,8 @@ namespace LocalFirst
 
             Console.WriteLine("Hello Chris");
             Console.WriteLine("Hello Chris2");
-            Console.WriteLine("Hello Chris3");
-            Console.WriteLine("Hello Chris4");
+            Console.WriteLine("Hello Chris6");
+            
 
         }
     }
