@@ -21,6 +21,7 @@ namespace LocalFirst
             Console.WriteLine("Hello Chris mail q");
 
             Console.WriteLine("Hello Chris");
+            Console.WriteLine("Hello Chris2");
 
         }
     }
